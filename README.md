@@ -18,5 +18,12 @@ The TrajCl-Porto dataset can be found https://drive.google.com/file/d/1SZJEBF3PU
 ## Reference
 If you want to use this code, please cite:
 ```
-
+@misc{chang2024revisiting,
+      title={Revisiting CNNs for Trajectory Similarity Learning}, 
+      author={Zhihao Chang and Linzhu Yu and Huan Li and Sai Wu and Gang Chen and Dongxiang Zhang},
+      year={2024},
+      eprint={2405.19761},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI}
+}
 ```
