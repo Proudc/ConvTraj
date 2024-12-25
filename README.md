@@ -1,4 +1,4 @@
-# Revisiting CNNs for Trajectory Similarity Learning
+# Revisiting CNNs for Trajectory Similarity Learning (VLDB 2025)
 
 The code officially implements the ConvTraj algorithm for trajectory distance computation approximation.
 
